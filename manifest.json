@@ -1,0 +1,17 @@
+{
+  "name": "Open in Sublime",
+  "version": "0.1",
+  "manifest_version": 2,
+  "minimum_chrome_version": "24",
+  "description": "A Chrome extension to open resource links in Sublime",
+  "devtools_page": "open_in_sublime.html",
+  "permissions" :
+    [
+      "*://*/*",
+      "tabs",
+      "contextMenus",
+      "webNavigation",
+      "webRequest",
+      "debugger"
+    ]
+}
