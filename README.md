@@ -6,7 +6,7 @@ Sassy Sublime is a Chrome extension. It let's you open SASS links (within the Ch
 Requirements
 -------------
 
-Make sure you have these installed first:
+Make sure you have these installed:
 
 1. Mac OS X
 2. [Chrome 25][1] or higher
