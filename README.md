@@ -26,8 +26,11 @@ Quick Start
 5. Open up Chrome's DevTools inspector and click the "Settings" gear icon in the lower-right
 6. In the "General" tab, under "Extensions", set "Open links in" to "Open in Sublime"
 7. In the "Experiments" tab, make sure "Support for SASS" is checked.
-9. In your SASS config.rb file make sure you have this line:
+8. In your SASS config.rb file make sure you have this line:
     
     sass_options = { :debug_info => true }
 
+You may need to restart Chrome.
+
 [4]: https://github.com/chanpory/sassy-sublime/archive/master.zip
+
